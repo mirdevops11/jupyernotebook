@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1682303009,,"wq"
+|2,0,1682314274,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,51 @@
 # Registers:
 
 # File marks:
-'0  2  1  ~/README.md
-|4,48,2,1,1682303009,"~/README.md"
+'0  3  35  ~/cd.html
+|4,48,3,35,1682314274,"~/cd.html"
+'1  1  0  ~/cd.HTML
+|4,49,1,0,1682314193,"~/cd.HTML"
+'2  2  1  ~/README.md
+|4,50,2,1,1682303009,"~/README.md"
 
 # Jumplist (newest first):
+-'  3  35  ~/cd.html
+|4,39,3,35,1682314274,"~/cd.html"
+-'  1  0  ~/cd.html
+|4,39,1,0,1682314205,"~/cd.html"
+-'  1  0  ~/cd.HTML
+|4,39,1,0,1682314193,"~/cd.HTML"
+-'  1  0  ~/cd.HTML
+|4,39,1,0,1682314193,"~/cd.HTML"
+-'  2  1  ~/README.md
+|4,39,2,1,1682303009,"~/README.md"
+-'  2  1  ~/README.md
+|4,39,2,1,1682303009,"~/README.md"
+-'  2  1  ~/README.md
+|4,39,2,1,1682303009,"~/README.md"
 -'  2  1  ~/README.md
 |4,39,2,1,1682303009,"~/README.md"
 -'  1  0  ~/README.md
 |4,39,1,0,1682302962,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1682302962,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1682302962,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1682302962,"~/README.md"
 
 # History of marks within files (newest to oldest):
+
+> ~/cd.html
+	*	1682314271	0
+	"	3	35
+	^	3	36
+	.	3	28
+	+	3	28
+
+> ~/cd.HTML
+	*	1682314190	0
+	"	1	0
 
 > ~/README.md
 	*	1682303000	0
